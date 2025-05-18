@@ -5,7 +5,7 @@
 ## Features
 
 ### 1. Real-Time Sensor Tracking
-Agro Rishi enables real-time monitoring of agricultural sensors using `socket.io` and threading techniques. Farmers can connect their Bluetooth devices and fetch data from nearby sensors to track environmental conditions on their farms. 
+Agro Rishi enables real-time monitoring of agricultural sensors using `socket.io` and threading techniques. Farmers can connect their Bluetooth devices and fetch data from nearby sensors to track environmental conditions on their farms and other places which deal with crops . 
 
 ### 2. Native Language Chatbot
 Our chatbot uses **Llama3 LLM** and **pyttsx3** for natural language processing and text-to-speech functionalities. The chatbot currently operates independently but is being integrated into the main application to provide a unified user interface. This feature aims to support native languages for better accessibility and interaction.
